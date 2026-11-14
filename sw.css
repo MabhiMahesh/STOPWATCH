@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.container{
+    display:inline-block;
+    align-content: center;
+    width: 50%;
+    border: 3px soild black;
+    border-radius: 25px;
+    text-align: center;
+   background-color: #222222;
+}
+.timerBtn{
+    width: 80px;
+    height: 30px;
+    border-radius: 12px;
+    background-color: #333333;
+    color: white;
+    cursor: pointer;
+    font-family: consolas,monospace;
+
+}
+.wrapper{
+    font-size: 75px;
+    color: rgb(26, 146, 40);
+    font-family: consolas,monospace;
+}
